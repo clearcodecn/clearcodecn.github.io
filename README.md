@@ -1,5 +1,5 @@
 ---
-# PHP中级工程师/GoLang中级工程师
+# GoLang中级工程师/PHP中级工程师
 ---
 
 
@@ -18,7 +18,7 @@
  - 技术博客：https://blog.clearcode.cn
  - Github：https://github.com/clearcodecn
 
- - 期望职位：PHP中级工程师/GoLang中级工程师
+ - 期望职位：GoLang中级工程师/PHP中级工程师
  - 期望薪资：税前月薪13~15k，特别喜欢的公司可例外
  - 期望城市：成都
 
