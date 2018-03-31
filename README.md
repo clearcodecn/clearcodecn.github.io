@@ -15,7 +15,7 @@
  - 张梦金/男/1992
  - 本科/江西财经大学现代经济管理学院计算机科学与技术
  - 工作年限：3年
- - 技术博客：https://blog.clearcode.cn
+ - 技术博客：https://www.clearcode.cn
  - Github：https://github.com/clearcodecn
 
  - 期望职位：GoLang中级工程师/PHP中级工程师
