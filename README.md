@@ -15,8 +15,6 @@
  - 张梦金/男/1992
  - 本科/江西财经大学现代经济管理学院计算机科学与技术
  - 工作年限：3年
- - 技术博客：https://www.clearcode.cn
- - Github：https://github.com/clearcodecn
 
  - 期望职位：GoLang中级工程师
  - 期望薪资：15 - 20 k
@@ -88,6 +86,8 @@
 ## 技术文章
 
 - [路人张的专栏](https://zhuanlan.zhihu.com/rookiejin)（https://zhuanlan.zhihu.com/rookiejin）
+ - 技术博客：https://www.clearcode.cn
+ - Github：https://github.com/clearcodecn
 
 # 个人技术体系
 我比较喜欢钻研原理、底层的东西，比如说`http`协议，`websocket`实现，`tcp`是如何通讯的等等，当了解了很多个东西的一个原理以后，
