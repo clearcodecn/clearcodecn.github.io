@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microservices on MR J - Blog</title>
+    <link>https://www.clearcode.cn/microservices/</link>
+    <description>Recent content in Microservices on MR J - Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 31 Jul 2019 23:29:20 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.clearcode.cn/microservices/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>第一篇：服务架构选型</title>
+      <link>https://www.clearcode.cn/microservices/start/</link>
+      <pubDate>Wed, 31 Jul 2019 23:29:20 +0800</pubDate>
+      
+      <guid>https://www.clearcode.cn/microservices/start/</guid>
+      <description> 微服务 </description>
+    </item>
+    
+  </channel>
+</rss>
